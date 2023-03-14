@@ -1,5 +1,4 @@
 # INSTALL GIT
-
 ![Screenshot (423)](https://user-images.githubusercontent.com/79730184/224975822-c1db31f0-de40-4733-ae5a-22f37f7adb8b.png)
 ![Screenshot (424)](https://user-images.githubusercontent.com/79730184/224975844-97a3d656-b1b2-4fbf-aeb9-a7d5cf9d2073.png)
 ![Screenshot (425)](https://user-images.githubusercontent.com/79730184/224975856-eed45c54-006c-4439-8f57-1441bcbe4dd2.png)
@@ -13,3 +12,12 @@
 ![Screenshot (419)](https://user-images.githubusercontent.com/79730184/224975949-bca76779-aba4-48df-9cc7-47465f528293.png)
 ![Screenshot (421)](https://user-images.githubusercontent.com/79730184/224975953-2b61b087-d6ac-466a-8e10-0203f4739e92.png)
 ![Screenshot (422)](https://user-images.githubusercontent.com/79730184/224975961-3d05bdff-ec79-4610-9891-0e99e6c4fac0.png)
+
+# MEMBUAT REPOSITORY 
+![image](https://user-images.githubusercontent.com/79730184/224976576-78382f1e-9206-438e-95f7-4f628c102c8c.png)
+![image](https://user-images.githubusercontent.com/79730184/224976703-8dcfb3a6-cfe6-4361-900a-5506da37ea70.png)
+![Screenshot (414)](https://user-images.githubusercontent.com/79730184/224976881-deb34dad-c72d-46ef-bd5f-a8fa5fe4512c.png)
+
+# KONFIGURASI GIT
+![image](https://user-images.githubusercontent.com/79730184/224980159-b3fda362-8c10-4a74-a42b-8d1cff7ba5da.png)
+
