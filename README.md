@@ -1,5 +1,5 @@
-# tekn-cloud-computing
+# Praktikum Teknologi Cloud Computing
 
-- [1. git-single](/tugas-01/git-single.md)
-- [2. git-kolaborasi](/tugas-01/git-kolaborasi.md)
-- [3. rangkuman-cloud-computing](/tugas-01/tugas-01.md)
+Nama : Yudit Saputra Sijabat
+
+NIM : 205610014
