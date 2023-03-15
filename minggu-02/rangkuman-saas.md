@@ -12,3 +12,15 @@
 
 ## 2. SAAS (Software as a Service) Platform Architecture
 ![image](https://user-images.githubusercontent.com/79730184/225284115-8d065d18-e320-44d5-8e9e-1dd290f5c7d5.png)
+SAAS (Software as a Service) atau dalam bahasa Indonesia dapat dikatakan sebagai Perangkat Lunak sebagai layanan adalah konsep model bisnis di mana suatu perusahaan menyediakan akses ke aplikasi perangkat lunak melalui internet sebagai layanan kepada pelanggan mereka. Dalam model ini, perusahaan penyedia perangkat lunak menangani semua hal yang terkait dengan pengembangan, pemeliharaan, dan pengoperasian aplikasi, sementara pelanggan hanya perlu membayar biaya berlangganan untuk menggunakan aplikasi tersebut.
+
+Dalam konsep ini, pelanggan tidak perlu lagi membeli dan menginstal perangkat lunak pada komputer atau server mereka sendiri, karena semua pengolahan dan penyimpanan data dilakukan di server penyedia perangkat lunak. Ini memungkinkan pelanggan untuk mengakses aplikasi dari mana saja, selama mereka memiliki koneksi internet.
+
+Contoh SaaS yang populer termasuk Dropbox, Google Apps, Salesforce, dan Slack. Konsep SaaS telah mengubah cara banyak perusahaan memanfaatkan perangkat lunak dan memberikan solusi yang lebih fleksibel dan hemat biaya untuk kebutuhan teknologi informasi mereka.
+Ada dua varietas utama SaaS:
+**1. SaaS Vertikal**
+Perangkat Lunak yang menjawab kebutuhan industri tertentu (misalnya, perangkat lunak untuk industri kesehatan, pertanian, real estat, keuangan)
+**2. SaaS Horisontal**
+Produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
+ilustrasi pada bentuk gambar
+![image](https://user-images.githubusercontent.com/79730184/225326824-6bc5962a-3bdb-46e6-a52e-62543560e981.png)
