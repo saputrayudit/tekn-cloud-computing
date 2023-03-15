@@ -22,5 +22,5 @@ Ada dua varietas utama SaaS:
 Perangkat Lunak yang menjawab kebutuhan industri tertentu (misalnya, perangkat lunak untuk industri kesehatan, pertanian, real estat, keuangan)
 2. SaaS Horisontal
 Produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
-ilustrasi pada bentuk gambar
+* ilustrasi pada bentuk gambar
 ![image](https://user-images.githubusercontent.com/79730184/225326824-6bc5962a-3bdb-46e6-a52e-62543560e981.png)
