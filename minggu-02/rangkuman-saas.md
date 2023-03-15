@@ -9,3 +9,6 @@
 * **PaaS (platform as a service)** mengacu pada layanan platform berbasis cloud yang memberi para pengembang kerangka kerja yang dapat mereka gunakan untuk membuat aplikasi khusus. Model ini menyediakan programmer dengan platform yang digunakan untuk membuat perangkat lunak yang dikirimkan melalui Internet. Semua server, penyimpanan, dan jaringan dapat dikontrol oleh bisnis atau penyedia pihak ketiga. PaaS membuat proses pengembangan, pengujian, dan penyebaran cepat, mudah, dan hemat biaya. Dibandingkan dengan SaaS, PaaS menyediakan platform untuk pembuatan perangkat lunak, bukan perangkat lunaknya. Contoh PaaS ialah Windows Azure & Google App Engine.
 * perbedaan menurut gambar **Iaas** **SaaS** **PaaS**
 ![image](https://user-images.githubusercontent.com/79730184/225207295-056cb338-cff5-4f46-b623-4f086042e9ca.png)
+
+## 2. SAAS (Software as a Service) Platform Architecture
+![image](https://user-images.githubusercontent.com/79730184/225284115-8d065d18-e320-44d5-8e9e-1dd290f5c7d5.png)
