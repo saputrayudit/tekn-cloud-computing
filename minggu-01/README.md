@@ -1,5 +1,7 @@
-# tekn-cloud-computing
+# Link Hasil Praktikum
 
-- [1. git-single](/tugas-01/git-single.md)
-- [2. git-kolaborasi](/tugas-01/git-kolaborasi.md)
-- [3. rangkuman-cloud-computing](/tugas-01/tugas-01.md)
+[1. git-single](/minggu-01/git-single.md)
+
+[2. rangkuman-cloud-computing](/minggu-01/rangkuman-cloud-computing.md)
+
+[3. git-kolaborasi](/minggu-01/git-kolaborasi.md)
