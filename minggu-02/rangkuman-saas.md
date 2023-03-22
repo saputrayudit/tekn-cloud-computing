@@ -55,13 +55,13 @@ Solusi SaaS dapat digunakan untuk lingkungan ini dan, secara teori, menawarkan s
 * Aplikasi kantor
 * Email dan pesan instan
 * Media sosial
-* yanan Fintech
-* ngekspos API Pihak ke-3
-* amanan dan otentikasi
-* mbelajaran mesin
-* cerdasan buatan
-* yanan Lokasi
-* eaming data dan layanan pencarian
+* layanan Fintech
+* Mengekspos API Pihak ke-3
+* Keamanan dan otentikasi
+* Pembelajaran mesin
+* Kecerdasan buatan
+* Layanan Lokasi
+* Streaming data dan layanan pencarian
 
 * Kurangnya kontrol dalam platform Arsitektur SaaS
 Karena aplikasi SaaS dihosting di lingkungan SaaS vendor, Anda memiliki sedikit atau tidak ada kendali atas perangkat lunak yang Anda gunakan.Aplikasi internal atau lokal akan memberi bisnis Anda lebih banyak kontrol atas perilakunya, misalnya, aplikasi berbasis Windows mungkin memiliki lebih banyak opsi konfigurasi daripada aplikasi web biasa yang dikirimkan sebagai aplikasi SaaS.
