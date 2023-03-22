@@ -35,7 +35,7 @@ Dalam kesimpulannya, SaaS (Software as a Service) adalah model bisnis di mana su
 ## 3. SaaS (Software as a Service) Platform itecture.
 ![image](https://user-images.githubusercontent.com/79730184/226768160-c390a11f-dc13-45fe-aa6e-087b8da3e6ee.png)
 
-Kesederhanaan Aplikasi Arsitektur SaaS
+**Kesederhanaan Aplikasi Arsitektur SaaS**
 
 * Nilai Ekonomis
 Model pembayaran biaya berlangganan bulanan atau tahunan memudahkan bisnis untuk menganggarkan, memasangkannya dengan nol biaya penyiapan infrastruktur, dan mudah untuk melihat bagaimana memilih menggunakan solusi SaaS dapat menghemat uang bisnis.
@@ -63,3 +63,26 @@ Solusi SaaS dapat digunakan untuk lingkungan ini dan, secara teori, menawarkan s
 * yanan Lokasi
 * eaming data dan layanan pencarian
 
+* Kurangnya kontrol dalam platform Arsitektur SaaS
+Karena aplikasi SaaS dihosting di lingkungan SaaS vendor, Anda memiliki sedikit atau tidak ada kendali atas perangkat lunak yang Anda gunakan.Aplikasi internal atau lokal akan memberi bisnis Anda lebih banyak kontrol atas perilakunya, misalnya, aplikasi berbasis Windows mungkin memiliki lebih banyak opsi konfigurasi daripada aplikasi web biasa yang dikirimkan sebagai aplikasi SaaS.
+
+* Ekosistem terbatas
+Tidak dapat disangkal bahwa SaaS menjadi tren yang berkembang sebagai saluran distribusi perangkat lunak. Konon, masih banyak aplikasi yang tidak menawarkan versi yang dihosting.
+
+* Pertunjukan
+Aplikasi in-house, thick client, atau on-premise akan selalu berjalan lebih cepat daripada produk yang dikirimkan melalui internet.
+
+* Kekhawatiran Data
+Saat memilih produk SaaS, dan misalnya, dengan munculnya GDPR, bisnis harus memberi perhatian khusus dalam hal tempat implementasi SaaS menyimpan data di cloud. Setiap yurisdiksi memiliki kebijakan legislatifnya sendiri dan bertindak ketika data sensitif sedang diproses atau disimpan.
+
+* Komponen Utama Platform SaaS
+Bagian penting dalam mengembangkan produk SaaS terbaru Anda adalah menentukan komponen atau fitur utama mana yang diharapkan pengguna sebagai standar. Dapat dipahami bahwa fitur akan didorong oleh permintaan pasar dan komunitas pengguna, tetapi ada beberapa komponen utama yang diharapkan pengguna.
+
+* Keamanan
+Melindungi data pelanggan di platform SaaS Anda adalah yang paling penting, karena itu, produk SaaS Anda kemungkinan besar akan melayani ratusan, bahkan ribuan pengguna. Pastikan arsitektur SaaS Anda mempertimbangkan hal ini.
+
+* Pribadi
+Sementara keamanan berkaitan dengan penguncian pengguna dan data sensitif, privasi data adalah komponen penting lainnya yang harus dipertimbangkan oleh platform SaaS Anda. Dengan peraturan baru, seperti GDPR, bisnis menjadi lebih akuntabel dari sebelumnya untuk memastikan privasi pengguna dan data tetap terjaga.Dengan temuan dari KPMG yang menyatakan bahwa Privasi Data adalah atribut terpenting kedua, yang mereka cari di penyedia cloud, privasi merupakan komponen penting untuk dipertimbangkan saat merancang produk SaaS Anda sendiri.
+
+* Kustomisasi dan Konfigurasi
+Meskipun Anda mungkin dapat memberikan solusi SaaS out-of-the-box untuk sebagian besar konsumen yang dikirimkan dengan serangkaian fitur, antarmuka pengguna, dan fungsionalitas standar, perusahaan sering kali mengharapkan penyesuaian tambahan untuk menangani kasus penggunaan khusus untuk spesifik mereka. domain masalah.Mempertimbangkan ekstensibilitas untuk arsitektur SaaS Anda adalah komponen penting lainnya yang perlu Anda pertimbangkan. Anda dapat melakukannya dengan mengirimkan versi "label putih" dari produk SaaS Anda atau dengan menerapkan mekanisme plugin yang memungkinkan bisnis dan/atau pengembang memperluas solusi SaaS label putih Anda.
