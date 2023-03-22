@@ -31,3 +31,11 @@ Perangkat lunak skala besar sebelumnya membutuhkan biaya, waktu, staf, dan angga
 
 * kesimpulan <br>
 Dalam kesimpulannya, SaaS (Software as a Service) adalah model bisnis di mana suatu perusahaan menyediakan akses ke aplikasi perangkat lunak melalui internet sebagai layanan kepada pelanggan mereka. Model ini memungkinkan pelanggan untuk mengakses aplikasi dari mana saja dengan koneksi internet, tanpa harus membeli atau menginstal perangkat lunak pada komputer mereka sendiri. Perusahaan penyedia perangkat lunak bertanggung jawab atas pengembangan, pemeliharaan, dan pengoperasian aplikasi, sementara pelanggan hanya membayar biaya berlangganan untuk menggunakan aplikasi tersebut. Konsep SaaS telah mengubah cara banyak perusahaan memanfaatkan perangkat lunak dan memberikan solusi yang lebih fleksibel dan hemat biaya untuk kebutuhan teknologi informasi mereka.
+## 3. SaaS (Software as a Service) Platform itecture.
+![image](https://user-images.githubusercontent.com/79730184/226768160-c390a11f-dc13-45fe-aa6e-087b8da3e6ee.png)
+Kesederhanaan Aplikasi Arsitektur SaaS
+* Nilai Ekonomis
+Model pembayaran biaya berlangganan bulanan atau tahunan memudahkan bisnis untuk menganggarkan, memasangkannya dengan nol biaya penyiapan infrastruktur, dan mudah untuk melihat bagaimana memilih menggunakan solusi SaaS dapat menghemat uang bisnis.
+
+* Keamanan
+Keamanan merupakan aspek penting dari solusi pengembangan perangkat lunak dan platform SaaS tidak berbeda. Sebagai konsumen aplikasi yang dirancang menggunakan SaaS, Anda tidak perlu mengkhawatirkan bagaimana data Anda dikunci. Itu disimpan dengan aman di cloud!
