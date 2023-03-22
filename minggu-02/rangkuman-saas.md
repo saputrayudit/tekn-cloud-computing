@@ -12,6 +12,7 @@
 
 ## 2. SAAS (Software as a Service) Platform Architecture
 ![image](https://user-images.githubusercontent.com/79730184/225284115-8d065d18-e320-44d5-8e9e-1dd290f5c7d5.png)
+
 SAAS (Software as a Service) atau dalam bahasa Indonesia dapat dikatakan sebagai Perangkat Lunak sebagai layanan adalah konsep model bisnis di mana suatu perusahaan menyediakan akses ke aplikasi perangkat lunak melalui internet sebagai layanan kepada pelanggan mereka. Dalam model ini, perusahaan penyedia perangkat lunak menangani semua hal yang terkait dengan pengembangan, pemeliharaan, dan pengoperasian aplikasi, sementara pelanggan hanya perlu membayar biaya berlangganan untuk menggunakan aplikasi tersebut.
 
 Dalam konsep ini, pelanggan tidak perlu lagi membeli dan menginstal perangkat lunak pada komputer atau server mereka sendiri, karena semua pengolahan dan penyimpanan data dilakukan di server penyedia perangkat lunak. Ini memungkinkan pelanggan untuk mengakses aplikasi dari mana saja, selama mereka memiliki koneksi internet.
@@ -42,7 +43,7 @@ Keamanan merupakan aspek penting dari solusi pengembangan perangkat lunak dan pl
 * Kesesuaian
 Dengan penginstalan perangkat lunak tradisional, pembaruan dan tambalan terkadang membutuhkan banyak waktu dan uang. Ini terutama berlaku di perusahaan.
 
-* **Kemampuan Solusi SaaS**
+* Kemampuan Solusi SaaS
 Platform SaaS memiliki beragam kemampuan. Apalagi jika digabungkan dengan penawaran cloud lainnya seperti IaaS (Infrastruktur sebagai Layanan) dan PaaS (Platform sebagai Layanan).
 
 Teknologi cloud seperti Microsoft Azure memungkinkan Anda menyediakan server yang dapat menghosting situs web, database, dan banyak lagi.
