@@ -87,4 +87,30 @@ Sementara keamanan berkaitan dengan penguncian pengguna dan data sensitif, priva
 * Kustomisasi dan Konfigurasi
 Meskipun Anda mungkin dapat memberikan solusi SaaS out-of-the-box untuk sebagian besar konsumen yang dikirimkan dengan serangkaian fitur, antarmuka pengguna, dan fungsionalitas standar, perusahaan sering kali mengharapkan penyesuaian tambahan untuk menangani kasus penggunaan khusus untuk spesifik mereka. domain masalah.Mempertimbangkan ekstensibilitas untuk arsitektur SaaS Anda adalah komponen penting lainnya yang perlu Anda pertimbangkan. Anda dapat melakukannya dengan mengirimkan versi "label putih" dari produk SaaS Anda atau dengan menerapkan mekanisme plugin yang memungkinkan bisnis dan/atau pengembang memperluas solusi SaaS label putih Anda.
 
-## Cara membangun aplikasi SaaS berbasis cloud
+## 4. Cara membangun aplikasi SaaS berbasis cloud
+
+![image](https://user-images.githubusercontent.com/79730184/226771187-d4eb65c9-cf87-4c10-a9d4-12ba4162498f.png)
+1. Identifikasi kebutuhan dan konsep produk
+Identifikasi kebutuhan dan konsep produk yang akan dikembangkan. Tentukan apakah produk yang akan dikembangkan akan menyelesaikan masalah atau memenuhi kebutuhan yang spesifik pada pasar tertentu.
+
+2. Pilih platform cloud
+Pilih platform cloud yang akan digunakan. Ada beberapa pilihan platform cloud yang populer, seperti Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), dan lain-lain. Pilihlah platform cloud yang sesuai dengan kebutuhan dan anggaran yang tersedia.
+
+3. Rancang arsitektur sistem
+Rancang arsitektur sistem yang akan digunakan. Arsitektur sistem yang baik akan memudahkan pengembangan aplikasi dan mempercepat proses deployment. Pastikan arsitektur sistem yang dipilih mendukung skalabilitas dan ketersediaan yang tinggi.
+
+4. Pilih teknologi yang tepat
+Pilihlah teknologi yang tepat untuk mengembangkan aplikasi. Pilih bahasa pemrograman, framework, dan tools yang sesuai dengan kebutuhan dan kemampuan tim pengembang.
+
+5. Buat prototipe
+Buatlah prototipe aplikasi SaaS yang sederhana. Prototipe ini dapat membantu tim pengembang memahami kebutuhan dan keinginan pengguna.
+
+6. Uji coba dan evaluasi
+Uji coba prototipe dengan pengguna dan evaluasi hasilnya. Ambil saran dan masukan dari pengguna dan lakukan perbaikan pada aplikasi.
+
+7. Deployment
+Setelah aplikasi telah diuji dan dinilai baik, aplikasi dapat di-deploy ke platform cloud yang telah dipilih. Pastikan aplikasi berjalan dengan baik dan dapat diakses dengan mudah oleh pengguna.
+
+8. Pemeliharaan dan pembaruan
+Setelah aplikasi di-deploy, pastikan melakukan pemeliharaan dan pembaruan secara rutin untuk menjaga ketersediaan dan keamanan aplikasi.
+
