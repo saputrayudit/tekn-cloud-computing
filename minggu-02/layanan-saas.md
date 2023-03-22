@@ -1,9 +1,9 @@
 ## Layanan SaaS (Software as a Service) yang memiliki fungsionalitas yang sama dengan software desktop/non-cloud adalah:
 
-Google Docs (SaaS) - Microsoft Office (Desktop)
+* **Google Docs (SaaS) - Microsoft Office (Desktop)**
 Google Docs adalah layanan pengolahan kata, spreadsheet, dan presentasi online dari Google. Microsoft Office adalah software desktop yang menyediakan pengolahan kata, spreadsheet, dan presentasi.
 
-Salesforce (SaaS) - Zoho CRM (Desktop)
+* **Salesforce (SaaS) - Zoho CRM (Desktop)**
 Salesforce adalah platform manajemen hubungan pelanggan yang berbasis cloud yang menyediakan solusi untuk penjualan, pemasaran, dan layanan pelanggan. Zoho CRM adalah software desktop yang menyediakan solusi untuk manajemen hubungan pelanggan seperti Salesforce, tetapi dijalankan pada desktop dan tidak memerlukan koneksi internet untuk digunakan.
 
 
