@@ -86,3 +86,5 @@ Sementara keamanan berkaitan dengan penguncian pengguna dan data sensitif, priva
 
 * Kustomisasi dan Konfigurasi
 Meskipun Anda mungkin dapat memberikan solusi SaaS out-of-the-box untuk sebagian besar konsumen yang dikirimkan dengan serangkaian fitur, antarmuka pengguna, dan fungsionalitas standar, perusahaan sering kali mengharapkan penyesuaian tambahan untuk menangani kasus penggunaan khusus untuk spesifik mereka. domain masalah.Mempertimbangkan ekstensibilitas untuk arsitektur SaaS Anda adalah komponen penting lainnya yang perlu Anda pertimbangkan. Anda dapat melakukannya dengan mengirimkan versi "label putih" dari produk SaaS Anda atau dengan menerapkan mekanisme plugin yang memungkinkan bisnis dan/atau pengembang memperluas solusi SaaS label putih Anda.
+
+## Cara membangun aplikasi SaaS berbasis cloud
