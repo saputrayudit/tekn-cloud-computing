@@ -9,6 +9,8 @@ Salesforce adalah platform manajemen hubungan pelanggan yang berbasis cloud yang
 
 ## Dua layanan SaaS yang dapat digunakan untuk membuat diagram di cloud adalah:
 
-Lucidchart: Layanan SaaS ini memungkinkan pengguna untuk membuat diagram seperti flowchart, diagram organisasi, diagram jaringan, dan diagram ERD (Entity Relationship Diagram). Lucidchart juga memiliki integrasi dengan berbagai aplikasi seperti G Suite, Microsoft Office, dan Slack. Software desktop/non cloud yang dapat digunakan dengan fungsionalitas yang sama adalah Microsoft Visio.
+* **Lucidchart**
+Lucidchart adalah Layanan SaaS ini memungkinkan pengguna untuk membuat diagram seperti flowchart, diagram organisasi, diagram jaringan, dan diagram ERD (Entity Relationship Diagram). Lucidchart juga memiliki integrasi dengan berbagai aplikasi seperti G Suite, Microsoft Office, dan Slack. Software desktop/non cloud yang dapat digunakan dengan fungsionalitas yang sama adalah Microsoft Visio.
 
-Gliffy: Gliffy adalah layanan SaaS yang memungkinkan pengguna untuk membuat diagram seperti flowchart, diagram organisasi, diagram jaringan, dan diagram ERD. Layanan ini juga memiliki integrasi dengan berbagai aplikasi seperti Atlassian, Slack, dan Google Drive. Software desktop/non cloud yang dapat digunakan dengan fungsionalitas yang sama adalah Dia.
+* **Gliffy**
+Gliffy adalah layanan SaaS yang memungkinkan pengguna untuk membuat diagram seperti flowchart, diagram organisasi, diagram jaringan, dan diagram ERD. Layanan ini juga memiliki integrasi dengan berbagai aplikasi seperti Atlassian, Slack, dan Google Drive. Software desktop/non cloud yang dapat digunakan dengan fungsionalitas yang sama adalah Dia.
