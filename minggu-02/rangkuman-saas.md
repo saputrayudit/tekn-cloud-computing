@@ -41,7 +41,7 @@ Model pembayaran biaya berlangganan bulanan atau tahunan memudahkan bisnis untuk
 Keamanan merupakan aspek penting dari solusi pengembangan perangkat lunak dan platform SaaS tidak berbeda. Sebagai konsumen aplikasi yang dirancang menggunakan SaaS, Anda tidak perlu mengkhawatirkan bagaimana data Anda dikunci. Itu disimpan dengan aman di cloud!
 * Kesesuaian
 Dengan penginstalan perangkat lunak tradisional, pembaruan dan tambalan terkadang membutuhkan banyak waktu dan uang. Ini terutama berlaku di perusahaan.
-**Kemampuan Solusi SaaS**
+ **Kemampuan Solusi SaaS**
 Platform SaaS memiliki beragam kemampuan. Apalagi jika digabungkan dengan penawaran cloud lainnya seperti IaaS (Infrastruktur sebagai Layanan) dan PaaS (Platform sebagai Layanan).
 
 Teknologi cloud seperti Microsoft Azure memungkinkan Anda menyediakan server yang dapat menghosting situs web, database, dan banyak lagi.
