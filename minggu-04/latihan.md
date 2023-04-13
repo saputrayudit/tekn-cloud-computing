@@ -1,6 +1,29 @@
 # Praktikum Teknologi Cloud Computing - Minggu 4 (LATIHAN)
 
-**tampilan virtualbox**
+**Tampilan Virtualbox**
 ---
 
 ![image](https://user-images.githubusercontent.com/79730184/231610170-fefeb0a8-e920-4af1-a8e3-8cf3b68a6353.png)
+**Tampilan Ubuntu**
+---
+**tampilan virtualbox**
+---
+![Screenshot (463)](https://user-images.githubusercontent.com/79730184/231626231-b75a2793-af5f-42eb-836c-88c8731915a6.png)
+
+
+---
+
+**tampilan virtualbox**
+---
+**tampilan virtualbox**
+---
+**tampilan virtualbox**
+---
+**tampilan virtualbox**
+---
+**tampilan virtualbox**
+---
+**tampilan virtualbox**
+---
+**tampilan virtualbox**
+---
