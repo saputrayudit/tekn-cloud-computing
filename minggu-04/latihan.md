@@ -9,9 +9,9 @@
 **tampilan virtualbox**
 ---
 ![Screenshot (463)](https://user-images.githubusercontent.com/79730184/231626231-b75a2793-af5f-42eb-836c-88c8731915a6.png)
+- tuliskan sudo apt update
+![Screenshot (466)](https://user-images.githubusercontent.com/79730184/231626458-7258108f-371d-4860-8a38-69dacae52c6f.png)
 
-
----
 
 **tampilan virtualbox**
 ---
