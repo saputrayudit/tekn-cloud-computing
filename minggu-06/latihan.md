@@ -39,6 +39,21 @@
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/b1d21ebd-bcb7-407d-b00e-7fbbd2757375)
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/9aee23c5-bc0c-488d-8a03-dd30c1e6ec22)
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/71636209-7fe7-4a03-9101-3b97f931e573)
+---
+### Install GO
+---
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/3e971a45-dbce-4307-8e96-ff282dcb63aa)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/2cad4860-e428-48bb-aa67-414cfd87581b)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/a0f15310-ab11-4371-8425-b6b13989d678)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/6b4d8192-8df0-4ac2-b76d-f465285ed345)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/c4999d34-bbf2-49ce-ad81-2810d99d5241)
+
+
+
+
+
+
+
 
 
 
