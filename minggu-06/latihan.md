@@ -16,4 +16,3 @@ Install MongoDB
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/397aa968-22c4-46f8-a3df-d343ec3346c3)
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/6f22e72b-8c33-4038-876a-c737f0194037)
 
-
