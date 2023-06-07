@@ -4,7 +4,7 @@
 ## Installasi MongoDB, MySQL, dan GO
 ---
 Install MongoDB
-
+--
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/38f7ba60-f188-42fd-a4da-35ed8149459a)
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/96583a5a-66c5-43a9-9309-769fcc884233)
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/cc7d297a-af05-4cb0-8d54-2b78b0e63193)
