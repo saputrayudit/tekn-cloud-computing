@@ -16,9 +16,9 @@
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/397aa968-22c4-46f8-a3df-d343ec3346c3)
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/6f22e72b-8c33-4038-876a-c737f0194037)
 
---
+---
 ### Install MySQL
---
+---
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/f0ebec82-37c8-46a1-84f7-e6ad80fa4509)
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/2d940d59-b7f7-46a3-be1b-ce754e9b17e1)
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/1ddb9dde-897f-4ecd-ac89-80339134694a)
