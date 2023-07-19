@@ -11,7 +11,8 @@ Install Docker seperti terlihat pada gambar diatas.
 ---
 ## Setup dan Orientasi Docker
 
-![set](gs-docker-01.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/96834471-d6ad-4872-a5f0-e0305792be4d)
+
 ```
 //cek versi docker
 $ docker --version
@@ -25,7 +26,8 @@ $ docker container ls --all
 ---
 ## Build and run image
 
-![bri](gs-docker-02.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/e71dda9a-6ede-46f0-ba95-ddc515312542)
+
 ```
 //mengcloning repo berdasarkan url
 $ git clone https://github.com/dockersamples/node-bulletin-board
@@ -45,7 +47,8 @@ $ docker container rm --force bb
 ---
 ## Share image on Docker Hub
 
-![share](gs-docker-03.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/a41648a5-ee39-4f33-8bd3-fb9f85e3362b)
+
 ```
 Sebelumnya kita harus membuat akun docker hub terlebih dahulu, jika sudah kita membuat repo baru dengan nama bulletinboard.
 
