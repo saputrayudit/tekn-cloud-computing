@@ -3,7 +3,7 @@
 ## Installasi Docker 
 
 ---
-![insdock](install-docker.png) 
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/d5dc9fa2-75cf-4fee-a31c-e1f23a521265)
 ```
 Pastikan telah mendownload Docker Desktop Installer melalui link yang telah disediakan.
 Install Docker seperti terlihat pada gambar diatas.
