@@ -1,5 +1,5 @@
 
-# Praktikum Minggu-09
+# Praktikum Minggu-10
 
 [1.Latihan](Latihan.md)
 
