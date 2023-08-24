@@ -2,7 +2,7 @@
 
 ## Setup
 
-![acmo-1](acmo-1.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/285ca8d8-b174-41f6-9e5b-2e636438cfe7)
 ```
 //Mengclone repository dari url github
 $ git clone https://github.com/ibnesayeed/linkextractor.git
