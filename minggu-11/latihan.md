@@ -2,7 +2,7 @@
 
 ## Setup
 
-![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/285ca8d8-b174-41f6-9e5b-2e636438cfe7)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/22b4b5d0-f4bc-4b74-b0fc-17771254310f)
 ```
 //Mengclone repository dari url github
 $ git clone https://github.com/ibnesayeed/linkextractor.git
@@ -16,7 +16,7 @@ $ git checkout demo
 ---
 ## Step 0: Basic Link Extractor Script
 
-![acmo-4](acmo-4.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/0ebf6f8c-b7a4-493e-bed3-08ecf990fbc4)
 ```
 //Berpindah ke branch step0
 $ git checkout step0
@@ -24,7 +24,7 @@ $ git checkout step0
 //Menampilkan struktur folder
 $ tree
 ```
-![acmo-5](acmo-5.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/471c8fe0-0f8d-4f61-844f-6029b331943c)
 ```
 //Menampilkan isi file linkextractor.py
 $ cat linkextractor.py
@@ -32,7 +32,7 @@ $ cat linkextractor.py
 //Menjalankan file linkextractor.py
 $ ./linkextractor.py http://example.com/
 ```
-![acmo-6](acmo-6.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/e371efcf-b6dc-4b07-8cd5-0685a4b22d6c)
 ```
 //Melihat hak/izin akses file linkextractor.py
 $ ls -l linkextractor.py
@@ -43,7 +43,7 @@ $ python linkextractor.py
 ---
 ## Step 1: Containerized Link Extractor Script
 
-![acmo-7](acmo-7.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/1914aeef-b705-49cf-b6aa-cec275745117)
 ```
 //Berpindah ke branch step1
 $ git checkout step1
@@ -51,9 +51,9 @@ $ git checkout step1
 //Menampilkan struktur folder
 $ tree
 ```
-![acmo-8](acmo-8.png)
-![acmo-9](acmo-9.png)
-![acmo-10](acmo-10.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/62d5e2c4-9320-4717-9e0e-2d67e1fa8e05)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/fe0dc329-c469-4a84-83e7-d582e1f5a13d)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/90e07f7f-f142-4c81-ab88-318f747871e8)
 ```
 //Menampilkan isi file Dockerfile
 $ cat Dockerfile
@@ -67,7 +67,7 @@ $ docker image ls
 //Menjalankan container
 $ docker container run -it --rm linkextractor:step1 http://example.com/
 ```
-![acmo-11](acmo-11.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/99ca422e-16ad-4553-8cf6-c2691f835ff6)
 ```
 //Menjalankan container
 $ docker container run -it --rm linkextractor:step1 https://training.play-with-docker.com/
@@ -75,7 +75,7 @@ $ docker container run -it --rm linkextractor:step1 https://training.play-with-d
 ---
 ## Step 2: Link Extractor Module with Full URI and Anchor Text
 
-![acmo-12](acmo-12.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/fd2bc5b7-275d-4bd7-a9d2-f3ddfc2119c3)
 ```
 //Berpindah ke branch step2
 $ git checkout step2
@@ -83,17 +83,17 @@ $ git checkout step2
 //Menampilkan struktur folder
 $ tree
 ```
-![acmo-13](acmo-13.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/9266cb70-7037-4915-be4c-3da8cd7c4b46)
 ```
 //Menampilkan isi file linkextractor.py
 $ cat linkextractor.py
 ```
-![acmo-14](acmo-14.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/f7550219-d7eb-4a19-8474-691fa92df74c)
 ```
 //Membuat image
 $ docker image build -t linkextractor:step2 .
 ```
-![acmo-15](acmo-15.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/32a66f51-5856-4dec-b6f6-2f7600f57765)
 ```
 //Menampilkan daftar image
 $ docker image ls
@@ -103,14 +103,14 @@ $ docker image ls
 //Menjalankan container
 $ docker container run -it --rm linkextractor:step2 https://training.play-with-docker.com/
 ```
-![acmo-17](acmo-17.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/735a5db0-5a66-4a7b-a8b0-e9e17e93799e)
 ```
 //Menjalankan container
 $ docker container run -it --rm linkextractor:step1 https://training.play-with-docker.com/
 ```
 ---
 ## Step 3: Link Extractor API Service
-![acmo-18](acmo-18.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/8b6a21df-b7e9-4bb7-9a9d-0b117f44c0b2)
 ```
 //Berpindah ke branch step3
 $ git checkout step3
@@ -118,22 +118,22 @@ $ git checkout step3
 //Menampilkan struktur folder
 $ tree
 ```
-![acmo-19](acmo-19.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/4b38738b-db36-45b2-bf2a-4141be9e0db7)
 ```
 //Menampilkan isi file Dockerfile
 $ cat Dockerfile
 ```
-![acmo-20](acmo-20.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/40026832-adfb-4c15-bb42-68af04afafc5)
 ```
 //Menampilkan isi file main.py
 $ cat main.py
 ```
-![acmo-21](acmo-21.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/3c74013d-7723-4813-8ee2-788e4a578520)
 ```
 //Membuat image
 $ docker image build -t linkextractor:step3 .
 ```
-![acmo-22](acmo-22.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/c28fc953-9218-4ee7-9bb7-4c1c5dcf2391)
 ```
 //Menjalankan container
 $ docker container run -d -p 5000:5000 --name=linkextractor linkextractor:step3
@@ -141,12 +141,12 @@ $ docker container run -d -p 5000:5000 --name=linkextractor linkextractor:step3
 //Menampilkan daftar container
 $ docker container ls
 ```
-![acmo-23](acmo-23.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/a10b4d9b-bc02-4757-b802-fbae568fd503)
 ```
 //Membuat permintaan HTTP
 $ curl -i http://localhost:5000/api/http://example.com/
 ```
-![acmo-24](acmo-24.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/f5aaa4c6-0790-4fb4-a45b-a9b911fd073d)
 ```
 //Melihat catatan container
 $ docker container logs linkextractor
@@ -157,7 +157,7 @@ $ docker container rm -f linkextractor
 ---
 ## Step 4: Link Extractor API and Web Front End Services
 
-![acmo-25](acmo-25.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/98b24234-a127-4750-85ba-66ead75dbdf4)
 ```
 //Berpindah ke branch step4
 $ git checkout step4
@@ -165,146 +165,28 @@ $ git checkout step4
 //Menampilkan struktur folder
 $ tree
 ```
-![acmo-26](acmo-26.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/c35db1ea-f8f8-4f0f-869c-47bb78f0e53d)
 ```
 //Menampilkan isi file docker-compose.yml
 $ cat docker-compose.yml
 ```
-![acmo-27](acmo-27.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/489cce98-1f5c-49eb-b71d-4b8dbd8b9eb0)
 ```
 //Menampilkan isi file www/index.php
 $ cat www/index.php
 ```
-![acmo-28](acmo-28.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/0f4ec80d-3026-4a94-961b-05e53137a7bb)
 ```
 //Menjalankan layanan docker compose
 $ docker-compose up -d --build
 ```
-![acmo-29](acmo-29.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/45d4329b-84cb-4f8f-b08b-aa62069dafbb)
 ```
 //Menampilkan daftar container
 $ docker container ls
 ```
-![acmo-30](acmo-30.png)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/3be16acb-05f1-4729-b811-154ec3422cd3)
 ```
 //Menghubungakan dengan layanan API
 $ curl -i http://localhost:5000/api/http://example.com/
 ```
-Mengakses web Link Extractor
-
-![acmo-31](acmo-31.png)
-![acmo-32](acmo-32.png)
-```
-//Memodifikasi index file link extractor
-$ sed -i 's/Link Extractor/Super Link Extractor/g' www/index.php
-```
-Mengakses web Link Extractor yang telah di ubah
-
-![acmo-33](acmo-33.png)
-![acmo-34](acmo-34.png)
-```
-//Mereset atau mengembalikan perubahan
-$ git reset --hard
-
-//Menghentikan layanan
-$ docker-compose down
-```
----
-## Step 5: Redis Service for Caching
-
-![acmo-35](acmo-35.png)
-```
-//Berpindah ke branch step5
-$ git checkout step5
-
-//Menampilkan struktur folder
-$ tree
-```
-![acmo-36](acmo-36.png)
-```
-//Menampilkan isi file www/Dockerfile
-$ cat www/Dockerfile
-```
-![acmo-37](acmo-37.png)
-```
-//Menampilkan isi file api/main.py
-$ cat api/main.py
-```
-![acmo-38](acmo-38.png)
-```
-//Menampilkan isi file docker-compose.yml
-$ cat docker-compose.yml
-```
-![acmo-39](acmo-39.png)
-```
-//Menjalankan layanan
-$ docker-compose up -d --build
-```
-Mengakses web Link Extractor
-
-![acmo-40](acmo-40.png)
-![acmo-41](acmo-41.png)
-![acmo-42](acmo-42.png)
-```
-//Membuaka client redis
-$ docker-compose exec redis redis-cli monitor
-
-//Memodifikasi index file link extractor
-$ sed -i 's/Link Extractor/Super Link Extractor/g' www/index.php
-
-//Mereset atau mengembalikan perubahan
-$ git reset --hard
-
-//Menghentikan layanan
-$ docker-compose down
-```
----
-## Step 6: Swap Python API Service with Ruby
-
-![acmo-43](acmo-43.png)
-```
-//Berpindah ke branch step6
-$ git checkout step6
-
-//Menampilkan struktur folder
-$ tree
-```
-![acmo-44](acmo-44.png)
-```
-//Menampilkan isi file api/linkextractor.rb
-$ cat api/linkextractor.rb
-```
-![acmo-45](acmo-45.png)
-```
-//Menampilkan isi file api/Dockerfile
-$ cat api/Dockerfile
-```
-![acmo-46](acmo-46.png)
-```
-//Menampilkan isi file docker-compose.yml
-$ cat docker-compose.yml
-```
-![acmo-47](acmo-47.png)
-```
-//Menjalankan layanana
-$ docker-compose up -d --build
-```
-![acmo-48](acmo-48.png)
-```
-//Menghubungkan layananan
-$ curl -i http://localhost:4567/api/http://example.com/
-```
-Mengakses web link extractor
-![acmo-49](acmo-49.png)
-
-Menguji sebuah url untuk di extract
-![acmo-50](acmo-50.png)
-![acmo-51](acmo-51.png)
-```
-//Menghentikan layanan
-$ docker-compose down
-
-//Melihat catatan sebuah web yang telah di extract
-$ cat logs/extraction.log
-```
----
