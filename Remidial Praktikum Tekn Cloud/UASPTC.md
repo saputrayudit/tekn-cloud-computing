@@ -3,6 +3,7 @@
 > docker pull nginx:alpine
 
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/07576479-b04f-40f1-96c8-4df257b02d00)
+
 2. check pada docker image sudah terpasang repository nya atau tidak
 > docker images
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/3231ff32-e0de-4c15-95b8-3514d135e8e8)
