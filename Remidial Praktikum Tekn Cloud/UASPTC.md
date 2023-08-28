@@ -24,6 +24,17 @@ hasil
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/65e3bb05-ee0a-4eea-9797-9c18f53217c6)
 6. selanjutnya kita akan memasang mysql
 > docker run --name some-mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql
+masukkan local docker 
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/366f4ed8-4303-4f9b-950f-0b334c8f6304)
+dan password
+> my-secret-pw
+konek ke mysql
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/fe2ffa80-9f6c-4031-a9e4-41fc517cc35c)
+jika tidak masuk tampilannya seperti ini
+jika connect tampilannya seperti ini
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/41b51b3f-bb6e-4db6-bab6-5243159ebb76)
+akan saling konek
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/cef24dae-c822-40cf-ad7d-637f6f726a21)
 
 
 
