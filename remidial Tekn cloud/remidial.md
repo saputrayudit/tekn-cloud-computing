@@ -1,4 +1,4 @@
-5# Remidial Flask-Redis menggunakan Docker
+# Remidial Flask-Redis menggunakan Docker
 1. Membuat file git project
 > mkdir git_project
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/157be62b-4f5e-4d4b-8a8e-d8af87c3481d)
