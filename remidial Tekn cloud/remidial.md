@@ -10,3 +10,4 @@
 4.deploy ke docker
 > docker compose up -d
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/03560f67-64a1-49da-8d15-fa73cc4b1d62)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/bc629588-3513-4a85-ae5e-f64102e1891f)
