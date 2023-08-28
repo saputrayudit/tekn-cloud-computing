@@ -1,4 +1,4 @@
-![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/53c56790-899a-4e51-a69d-bf7e0ccbcc7a)# Konfigurasi Image MySQL pada nginx
+# Konfigurasi Image MySQL pada nginx
 1. pull image nginx
 > docker pull nginx:alpine
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/07576479-b04f-40f1-96c8-4df257b02d00)
