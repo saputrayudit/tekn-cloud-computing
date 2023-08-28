@@ -17,4 +17,5 @@
 6. Setelah aplikasi dimulai, navigasikan ke http://localhost:8000 di browser web Anda atau jalankan:
 > curl localhost:8000
 ![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/bfa19113-48e1-4c76-aea2-88c03319f5b7)
-7.
+7. docker compose down
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/2c5014ed-eb6f-4d4f-918a-c6680b8f06ed)
