@@ -1,7 +1,8 @@
 # Konfigurasi Image MySQL
 1. Buka [Docker Official Image](https://hub.docker.com/search?q=&type=image&image_filter=official) lalu cari image yang diinginkan, disini saya menggunakan [image MySQL](https://hub.docker.com/_/mysql)
 2. Selanjutnya pull image MySQL dengan mengetikkan perintah ```docker pull mysql```<br>
-![gb1]![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/7e41a235-ca93-450d-8803-d67daf365a5d)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/30447cc2-e795-426d-b087-0ebb0553f22c)
+
 <br>
 3. Cek apakah image berhasil di pull dengan mengetikkan perintah ```docker images```<br>
 ![gb2](https://github.com/AnggitaAlbiantara/tekn-cloud-computing/blob/e5acb25c17f93fe4108cb6ac59c79a469f2c6286/UAS/Gambar%20Hasil%20Praktek/2.PNG)<br>
