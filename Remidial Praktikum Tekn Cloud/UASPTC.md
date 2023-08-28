@@ -5,10 +5,10 @@
 
 <br>
 3. Cek apakah image berhasil di pull dengan mengetikkan perintah ```docker images```
-![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/e1779b98-be53-4644-b752-c30b4b4fbfdc)
 
-4. Setelah itu jalankan containers MySQL yang dibuat tadi pada cmd dengan mengetikkan perintah berikut ```docker run --name=mysql-docker -d mysql:latest``` dan cek apakah containers MySQL tadi berhasil berjalan atau tidak dengan mengetikkan perintah ```docker ps```<br>
-![gb3](https://github.com/AnggitaAlbiantara/tekn-cloud-computing/blob/e5acb25c17f93fe4108cb6ac59c79a469f2c6286/UAS/Gambar%20Hasil%20Praktek/3.PNG)
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/e1779b98-be53-4644-b752-c30b4b4fbfdc)
+4. Setelah itu jalankan containers MySQL yang dibuat tadi pada cmd dengan mengetikkan perintah berikut ```docker run --name=mysql-docker -d mysql:latest``` dan cek apakah containers MySQL tadi berhasil berjalan atau tidak dengan mengetikkan perintah ```docker ps```![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/f09a479f-d87b-4c89-a8d6-1648422e8a9c)
+
 5. Cek apakah Client MySQL sudah bisa digunakan atau belum dengan mengetikkan perintah ```docker logs some-mysql```<br>
 ![gb4](https://github.com/AnggitaAlbiantara/tekn-cloud-computing/blob/e5acb25c17f93fe4108cb6ac59c79a469f2c6286/UAS/Gambar%20Hasil%20Praktek/4.PNG)
 6. Coba jalankan Client MySQL dengan mengetikkan perintah ```docker exec -it some-mysql bash``` lalu ketikkan perintah ```mysql -uroot -p``` pada terminal bash<br>
