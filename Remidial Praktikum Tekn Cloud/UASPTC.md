@@ -1,11 +1,13 @@
 # Konfigurasi Image MySQL pada nginx
 1. pull image nginx
 > docker pull nginx:alpine
-<br>![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/07576479-b04f-40f1-96c8-4df257b02d00)
+<br>
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/07576479-b04f-40f1-96c8-4df257b02d00)
 <br>
 2. check pada docker image sudah terpasang repository nya atau tidak
 > docker images
-<br>![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/3231ff32-e0de-4c15-95b8-3514d135e8e8)<br>
+<br>
+![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/3231ff32-e0de-4c15-95b8-3514d135e8e8)<br>
 3. membuat repo di web
 <br>![image](https://github.com/saputrayudit/tekn-cloud-computing/assets/79730184/2f71d732-cfd1-4773-b9bf-114b4889fbff)<br>
 4.membuat 2 repo dengan versi yang berbeda 
